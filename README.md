@@ -4,10 +4,8 @@
   
  # Results
   Table 1:June Tempreture
- 
-  
-  
-  
+   https://github.com/Dawitdaniel91/surfs_up/blob/main/June_Temp.png
+    
   Table 2: December Tempreture
   
   
