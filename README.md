@@ -16,7 +16,7 @@
   
   # Summery 
   
-  From the above analysis , we understood that over the tempreture of a month december and june are the same.However, decemeber has wide range of results, with its high being close to june but low well below june's.In addition, the results shows that more quires require for the decesion of people to come for the shoping.if we get more data we can run more quires for the better decesion.
+  From the above analysis , we understood that over all tempreture of a month december and june are the same.However, decemeber has wide range of results, with its high being close to june but low well below june's.In addition, the results shows that more quires require for the decesion of people to come for the shoping.if we get more data we can run more quires for the better decesion.
   
   
   
