@@ -6,11 +6,11 @@
   Table 1:June Tempreture
   
   
-   https://github.com/Dawitdaniel91/surfs_up/blob/main/June_Temp.png
+   ![image](https://user-images.githubusercontent.com/80365882/144174781-0e46f7f7-e1e0-4e7d-835e-0762f5f1366e.png)
     
   Table 2: December Tempreture
   
-  https://github.com/Dawitdaniel91/surfs_up/blob/main/Dec_Temp.png
+  ![image](https://user-images.githubusercontent.com/80365882/144174749-0dcebcc3-bffd-4590-b93f-88a8a9e0fbaa.png)
   
   
   
